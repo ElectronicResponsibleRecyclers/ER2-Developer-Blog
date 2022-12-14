@@ -26,10 +26,10 @@ simple blog application.
 
 ### Submitting completed code
 
-When you have completed the above tasks. Create a zip file of the project, attach it to an email and send it to 
+When you have completed the above tasks. Remove the `vendors` folder and create a zip file of the projec. Attach the zip file to an email and send it to 
 [developers@er2.com](mailto:developers@er2.com). We will reach out for next steps within a week!
 
-### Notes
+#### Notes
 
 Our intention is not to have you spend more than 10 hours completing this. If you have any questions or need 
 guidance our support team is more than willing to help and can be contacted at [developers@er2.com](mailto:developers@er2.com)
